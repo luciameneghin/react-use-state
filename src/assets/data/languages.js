@@ -31,4 +31,4 @@ const languages = [
   }
 ];
 
-export default languages;
+export default languages
